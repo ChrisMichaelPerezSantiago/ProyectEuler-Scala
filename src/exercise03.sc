@@ -13,5 +13,4 @@ object exercice03{
 
    var arg = 600851475143L;
    println(println(primeFactors(arg).last))
-
  }
